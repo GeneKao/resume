@@ -1,0 +1,185 @@
+#+TITLE: Gene Ting-Chun Kao
+#+EMAIL: kao.gene@gmail.com
+#+DATE: \today
+#+AUTHOR: Gene Ting-Chun Kao
+#+LANGUAGE: en
+
+:LATEX:
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper, 9pt]
+#+LATEX_HEADER:
+#+LATEX_HEADER_EXTRA:
+#+LATEX_COMPILER: pdflatex
+#+LaTeX_HEADER: \usepackage{rmk_org_cv}
+:END:
+
+:OPTIONS:
+#+OPTIONS: toc:nil H:10 ':t
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:t title:t  |:t tags:nil
+:END:
+
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport long
+
+
+
+
+* Personal Details:
+** Address:
+Stefano-Franscini-Platz 1, HIB E 44, 8093 Zurich, Switzerland
+** Contacts:
+phone:  +41 77 979 0661    | skype: kao.gene \\
+emails: kao.gene@gmail.com | kao@arch.ethz.ch \\ 
+[[https://www.linkedin.com/in/kaogene/][linkedin: kaogene]] | [[https://github.com/GeneKao][github: GeneKao]]
+** Info:
+date of birth: 18.02.1990 | Nationality: Taiwan
+** Website:
+www.geneatcg.com | portfolio: www.geneatcg.com/portfolio
+* Education:
+  :PROPERTIES:
+  :CUSTOM_ID: qualifications
+  :END:
+
+** 2018 - present:
+*Dr.sc. ETH, Architecture and Structural Design* \\ 
+/Institute of Technology in Architecture, ETH Zurich, Switzerland/
+
+Focusing on computational geometry, digital fabrication, numerical optimisation. 
+
+** 2019 - 2020:
+*CAS ETH in Computer Science* \\ 
+/ETH Zurich, Switzerland/
+
+Major in Visual Computing
+
+** 2014 - 2016:
+*M.Sc. (Dipl.Ing.), Integrated Technologies and Architectural Design Research* \\ 
+/Stuttgart University, Germany/
+
+Multidisciplinary master studies and research of computational design, structural engineering, 
+robotics, digital fabrication and construction.
+
+** 2008 - 2013:
+*Bachelor of Architecture (B.Arch.), Distinction* \\ 
+/Tamkang University, Taiwan/
+
+Best thesis project award. 
+
+   
+* Work Experience
+
+** 09/2018 - present:
+*PhD Researcher* \\
+/Block Rearch Group, ETH Zurich / NCCR Digital Fabrication, Switzerland/
+
+** 01/2019:
+*Teaching Assistant* \\
+/Massachusetts Institute of Technology, Shanghai/
+
+** 02/2017 - 07/2018:
+*Software Developer / Project Engineer* \\
+/Ed. Züblin AG / Strabag AG, Technical Head Office, Germany/
+
+Worked on full-stack software solutions at the company's R&D division 
+(Digitalisation and Software Engineering, Zentrale Technik) 
+to design, develop, test, deploy, and maintain both the client-side applications and the 
+backend services to support various projects. 
+
+** 08/2016 - 01/2017:
+*Student Job (Software Developement)* \\
+/Ed. Züblin AG / Strabag AG, Technical Head Office, Germany/
+
+** 01/2017:
+*Workshop Lecturer* \\
+/Tamkang University, Taiwan/
+C# programming, mesh processing, Leopard plugin development for Rhino/Grasshopper.
+
+** 03/2016:
+*Workshop Teaching Assistant* \\
+/Stuttgart University, Germany/
+
+C# scripting and plugin development for Rhino/Grasshopper.
+
+** 07/2013 - 08/2014:
+*Research and Teaching Assistant* \\
+/Tamkang University, Taiwan/
+
+Focused on digital fabrication & computational geometry research, 
+worked as TA in Computer Programming in Architectural Design and 
+TKU digital fabrication lab technical support.
+Designed, manufacture and build Butterfly Effect Pavilion for the I-Lan Green Expo 2014. 
+
+
+
+* Cetificates:
+
+** 07/2018:
+*Artificial Intelligence Nanodegree*, /Udacity/
+
+** 05/2018:
+*Full Stack Web Developer Nanodegree*, /Udacity/
+
+** 11/2017:
+*Deep Learning Nanodegree*, /Udacity/
+
+** 05/2016:
+*Basic Robot Programming*, /KUKA Robotics/
+
+
+* Skills
+  :PROPERTIES:
+  :CUSTOM_ID: additional-skills
+  :END:
+
+** Computer:
+   :PROPERTIES:
+   :CUSTOM_ID: computer
+   :END:
+
+*Programming Languages:* \\
+Python, Java, C++, C#, JavaScript, HTML/CSS, MATLAB, Bash, Latex
+
+*Programs:* \\
+Adobe Create Suite, Rhinoceros3D, Blender
+
+*Operating Systems:* \\
+Unix/Linux, Emacs, Windows
+
+*Others skills:* \\
+Git, Org-mode, Databases, Full-stack web development, Mathemacial opitimisation, Machine learning,
+Algorithms and data structures, Software developement, Computer Graphics, Computer Vision
+Computational Design, Digital fabrication, Graphics design, 3D printing, Rendering, 
+3D modeling, and Problem solving. 
+
+
+** Language:
+   :PROPERTIES:
+   :CUSTOM_ID: language
+   :END:
+
+*English:* Full professional proficiency
+
+*Chinese:* Native
+
+*German:* Basic
+
+
+* Publications
+  :PROPERTIES:
+  :CUSTOM_ID: publications
+  :END:
+
+** Proceedings:
+   :PROPERTIES:
+   :CUSTOM_ID: peer-reviewed-journals
+   :END:
+Kao, G.T., Körner, A., Sonntag, D., Nguyen, L., Menges, A., Knippers, J., 2017. 
+Assembly-aware design of masonry shell structures: 
+a computational approach, in: Proceedings of IASS Annual Symposia, 
+International Association for Shell and Spatial Structures (IASS). pp. 1–10.
+
+(This paper was presented in Pecha Kucha plenary session)
